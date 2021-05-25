@@ -10,6 +10,7 @@ HEADERS += \
     tictac.h
 
 
+
 QMAKE_CFLAGS += -Wall -Wextra -Werror
 
 # gcov
